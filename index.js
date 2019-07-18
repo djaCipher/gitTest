@@ -3,6 +3,7 @@
 
 function test() {
     console.log(2);
+    console.log(3);
 }
 function add() {}
 
