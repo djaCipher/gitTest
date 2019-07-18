@@ -8,6 +8,7 @@ function test() {
 function add() {
     console.log('from hotfix');
     console.log('from hotfix another');
+    console.log('from iss1 another');
 }
 function parse() {}
     console.log('from iss1');
