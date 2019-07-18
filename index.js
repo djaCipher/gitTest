@@ -4,8 +4,8 @@
 
 function test() {
     console.log(2);
-    console.log(4);
-    console.log(3);
 }
-function add() {}
+function add() {
+    console.log('from hotfix');
+}
 function parse() {}
