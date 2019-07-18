@@ -4,3 +4,5 @@ console.log(1);
 function test() {
 
 }
+function add() {}
+
