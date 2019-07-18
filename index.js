@@ -1,4 +1,4 @@
-console.log(1);
+// console.log(1);
 // this is a test comment
 
 function test() {
