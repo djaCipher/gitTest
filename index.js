@@ -4,6 +4,8 @@ console.log(1);
 function test() {
     console.log(3)
 
+    console.log(2);
+
 }
 function add() {}
 
