@@ -9,3 +9,6 @@ function add() {
     console.log('from hotfix');
 }
 function parse() {}
+    console.log('from iss1');
+}
+
